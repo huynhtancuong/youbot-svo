@@ -1,0 +1,6 @@
+[submodule "robocup_pkg"]
+	path = robocup_pkg
+	url = https://github.com/huynhtancuong/robocup_pkg.git
+[submodule "rpg_svo_pro_open"]
+	path = rpg_svo_pro_open
+	url = https://github.com/huynhtancuong/rpg_svo_pro_open.git
